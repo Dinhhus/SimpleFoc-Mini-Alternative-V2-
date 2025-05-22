@@ -1,3 +1,13 @@
+Với BlackPill vào DFU hơi khó, làm mai mới vào đc STM32 booloader (toàn báo lỗi USB not Revognization)
+
+![image](https://github.com/user-attachments/assets/69cc296a-1c40-41a6-a2a1-8ac6c4e9f99b)
+
+![image](https://github.com/user-attachments/assets/b6ae92fa-827f-4b80-aa9d-df1822b6e416)
+
+
+
+/////////////////////////////////////////
+
 File .Bin dùng để nạp bootloader cho BluePill. Sử dụng ST_link để nạp bootloader
 
 
