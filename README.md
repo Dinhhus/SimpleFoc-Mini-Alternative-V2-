@@ -1,3 +1,6 @@
+File .Bin dùng để nạp bootloader cho BluePill. Sử dụng ST_link để nạp bootloader
+
+
 ![image](https://github.com/user-attachments/assets/b51eb5dd-7140-444e-b238-e57dd8d9566b)
 
 ![image](https://github.com/user-attachments/assets/89cd5c87-f34f-44c6-a6a6-25d0ff017a43)
