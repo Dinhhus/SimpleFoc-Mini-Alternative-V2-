@@ -1,5 +1,8 @@
+//Dinh: Cho Arduino Uno
+
+
 /**
- *
+ * 
  * Position/angle motion control example
  * Steps:
  * 1) Configure the motor and encoder
