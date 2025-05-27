@@ -9,6 +9,8 @@ Với BlackPill vào DFU hơi khó, làm mai mới vào đc STM32 booloader (to�
 /////////////////////////////////////////
 
 File .Bin dùng để nạp bootloader cho BluePill. Sử dụng ST_link để nạp bootloader
+Trong Arduino
+![image](https://github.com/user-attachments/assets/9105dc37-4a86-4697-a81e-b9991da6b6eb)
 
 
 ![image](https://github.com/user-attachments/assets/b51eb5dd-7140-444e-b238-e57dd8d9566b)
